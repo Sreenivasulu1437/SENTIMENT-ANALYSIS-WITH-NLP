@@ -191,3 +191,28 @@ The TF-IDF + Logistic Regression combination achieves 90% accuracy on sentiment 
 
 #OUTPUT
 
+📊 DATA SPLIT:
+Training set: 22 samples
+Testing set: 10 samples
+
+🚀 TRAINING MODEL...
+
+============================================================
+MODEL PERFORMANCE
+============================================================
+Training Accuracy: 0.8636
+Testing Accuracy: 0.5000
+Cross-validation Scores: [0.4  0.4  0.25 0.5  0.5 ]
+Mean CV Score: 0.4100 (+/- 0.1833)
+
+CLASSIFICATION REPORT:
+              precision    recall  f1-score   support
+
+    Negative       0.50      0.60      0.55         5
+    Positive       0.50      0.40      0.44         5
+
+    accuracy                           0.50        10
+   macro avg       0.50      0.50      0.49        10
+weighted avg       0.50      0.50      0.49        10
+
+
