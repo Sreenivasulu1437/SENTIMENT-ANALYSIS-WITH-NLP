@@ -216,3 +216,10 @@ CLASSIFICATION REPORT:
 weighted avg       0.50      0.50      0.49        10
 
 
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/0281d340-5578-4c5b-9de5-c8bfb33a301e" />
+
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/7a9c9576-d7e6-4b3a-a249-86ad98064313" />
+
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/7437aba0-fe1d-4042-bc9a-08a1e9baaf64" />
+
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/f27093fe-b2b9-4ac3-8a81-9cdcdc84ed08" />
